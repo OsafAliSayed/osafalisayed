@@ -5,10 +5,10 @@
 ### <div align="center">I'm Osaf Ali Sayed, a Third Year IIIT Pune Student and Full Stack Web Developer.</div>  
   
 
-- 🔭 I’m currently working on [ResQConnect](https://github.com/OsafAliSayed/ResQConnect)  
+- 🔭 I’m currently working on [GSorcerer](https://github.com/OsafAliSayed/GSorcerer)  
   
 
-- 🌱 I’m currently learning MERN stack  
+- 🌱 I’m currently learning Angular  
   
 
 - ⭐ Leet Code rating 1545. (Solved more than 250+ Questions)  
