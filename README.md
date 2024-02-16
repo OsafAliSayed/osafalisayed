@@ -14,7 +14,7 @@
 - ⭐ Leet Code rating 1545. (Solved more than 250+ Questions)  
   
 
-- 📄 Check out my [resume here!](https://drive.google.com/file/d/1iQNj1GWBdAd3xx2dsKZxxauGyplAO3K-/view?usp=sharing)  
+- 📄 Check out my [resume here!]([https://drive.google.com/file/d/1iQNj1GWBdAd3xx2dsKZxxauGyplAO3K-/view?usp=sharing](https://drive.google.com/file/d/1lEryHE_10Ac84f6vG7CjTpmYpCUC2OfU/view?usp=drive_link))  
   
 
 <br/>  
