@@ -1,4 +1,4 @@
-### <div align="center">I'm Osaf Ali Sayed — IIIT Pune Undergrad and Open Source Enthusiast</div>  
+### <div>I'm Osaf Ali Sayed — IIIT Pune Undergrad and Open Source Enthusiast</div>  
 
 ---
 
