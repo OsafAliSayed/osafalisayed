@@ -3,7 +3,7 @@
 ---
 
 - 🔭 Currently interning at **Zenduty** as a Software Developer Intern
-- Open Source Contributer [@Frappe](https://github.com/frappe)  
+- 👨‍💻 Open Source Contributer [@Frappe](https://github.com/frappe)  
 - 💡 Creator of **[GSorcerer](https://github.com/OsafAliSayed/GSorcerer)** – a GSoC issue finder  
 - 🧠 Building **[AI Kaatib](https://github.com/OsafAliSayed/aikaatib)** – an AI-powered blog writer  
 - 📄 [Check out my resume](https://drive.google.com/file/d/1lEryHE_10Ac84f6vG7CjTpmYpCUC2OfU/view?usp=sharing)  
