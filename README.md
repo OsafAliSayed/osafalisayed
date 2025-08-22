@@ -5,7 +5,7 @@
 - 🔭 Currently interning at **Zenduty** as a Software Developer Intern
 - 👨‍💻 Open Source Contributer [@Frappe](https://github.com/frappe), [@papra](https://github.com/papra-hq/papra)
 - ✨ [Visit my portfolio here](https://osafalisayed.com)
-- 📄 [Check out my resume](https://drive.google.com/drive/u/1/folders/1Z5IKKu5pcfObSXTvXpBsM757jJSTUkvg)  
+- 📄 [Check out my resume](https://drive.google.com/file/d/1QblKjN1os-Nl9iW4LP9zGnmML2iT4WIe/view?usp=sharing)  
 
 ---
 
