@@ -1,4 +1,4 @@
-### <div>I'm Osaf Ali Sayed - Freelance Full Stack Developer from IIIT Pune </div>  
+### <div>I'm Osaf Ali Sayed - Freelance Full Stack AI Developer from IIIT Pune </div>  
 
 ---
 
@@ -12,7 +12,7 @@
 ## 🚀 Skills
 
 ### 💻 Frontend
-`HTML` `CSS` `JavaScript` `React` `Vite.js` `Next.js` `Bootstrap` `TailwindCSS` `Ant Design` 
+`JavaScript` `TypeScript` `React` `Next.js` `Bootstrap` `TailwindCSS` `Ant Design` `ShadCN`
 
 ### 🖥️ Backend
 `Python` `Django` `Django REST Framework` `FastAPI` `Flask` 
@@ -20,8 +20,8 @@
 `Node` `Nest.js`
 
 ### 🗄️ Databases
-`PostgreSQL` `MySQL` `SQLite` `MongoDB` `Redis`
-
+`PostgreSQL` `MySQL` `SQLite` `MongoDB` `Redis` `QDrant`
+ 
 ### ⚙️ DevOps
 `Docker` `GitHub Actions` `Jenkins` `Kubernetes` `AWS`
 
